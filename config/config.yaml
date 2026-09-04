@@ -1,0 +1,4 @@
+# Configuration for the application
+database:
+  driver: sqlite3
+  path: test.db
